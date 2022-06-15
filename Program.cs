@@ -16,7 +16,7 @@ namespace test
 
             Console.WriteLine("He was born {0}",year);
             Console.WriteLine("He is {0}",nationality);
-            Console.WriteLine("G is {0},{0}",SIZE,G);
+            Console.WriteLine("Gd sis {0},{0}",SIZE,G);
         }
     }
 }
